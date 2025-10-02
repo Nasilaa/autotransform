@@ -1,0 +1,18 @@
+Package: autotransform
+Title: Automatically detects and transforms ambiguous data types in data
+    frames
+Version: 0.1.0
+Author: Abednego Nasila <alisanabednego@gmail.com>
+Description: Detects and transforms ambiguous data types in data frames.
+    Handles numeric strings, categorical variables, and more. Includes
+    rollback functionality to revert transformations entirely or for
+    specific columns. Perfect for cleaning messy datasets with mixed or
+    unclear data types.
+License: MIT
+Imports: 
+    lubridate,
+    readxl
+Encoding: UTF-8
+Mantainer: Abednego Nasila
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
