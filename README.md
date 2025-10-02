@@ -267,7 +267,7 @@ MIT License - see LICENSE file for details
 
 ## Author
 
-Your Name <alisanabednego@gmail.com>
+Abednego Nasila <alisanabednego@gmail.com>
 
 ## Citation
 
